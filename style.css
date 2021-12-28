@@ -50,11 +50,11 @@ html, body{
 }
 
 @keyframes nav {
-    0%   {top:3px;}
-    25%  {top:-90px;}
-    50%  {top:-70px;}
-    75%  {top:-50px;}
-    100% {top:3px;}
+    0%   {top:-90;}
+    25%  {top:-90;}
+    50%  {top:-50;}
+    75%  {top:-50;}
+    100% {top:0;}
 
 }
 
